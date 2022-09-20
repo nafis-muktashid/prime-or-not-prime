@@ -1,0 +1,1 @@
+# This program helps you to know if your entred number is a prime or not 
